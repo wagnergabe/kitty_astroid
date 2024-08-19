@@ -1,5 +1,11 @@
 # Kitty Asteroid
 
+
+
+https://github.com/user-attachments/assets/d963ea40-2ea1-40fa-998b-64389b9b2a36
+
+
+
 **Kitty Asteroid** is an arcade-style game built with Pygame where players control a spaceship piloted by a cat. The goal is to avoid and destroy incoming meteors by shooting lasers while trying to achieve the highest possible score. The game ends if a meteor collides with the spaceship.
 
 ## Features
